@@ -1,0 +1,2 @@
+1) Derive a subclass to inherit common behavior from a base class and override methods instead of duplicating code
+2) Write code against a base type so different subclasses can be used interchangeably
